@@ -1,0 +1,4 @@
+#Tue Dec 12 12:46:53 WIB 2023
+base.0=D\:\\take_picture\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
